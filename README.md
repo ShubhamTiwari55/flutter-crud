@@ -38,7 +38,7 @@ lib/: Contains the Dart code for the app.
 
 ## Usage
 
-1. # Launch the app
+1. Launch the app
 2. Manage Tasks: Use the app to:
 
 View tasks.
