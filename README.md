@@ -1,16 +1,22 @@
-# crud_app
+# Flutter To-Do List App
 
-A new Flutter project.
+This is a simple to-do list app built with Flutter that allows you to manage your tasks. You can add new tasks, mark them as done, change their names, or delete them.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Folder Structure](#folder-structure)
+- [Screenshots](#screenshots)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- View a list of tasks.
+- Add new tasks to the list.
+- Mark tasks as done.
+- Edit task titles.
+- Delete tasks from the list.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
